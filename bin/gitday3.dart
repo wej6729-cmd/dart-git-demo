@@ -1,3 +1,3 @@
 void main(){
-  print("Hello class from VS");
+  print("Hello class from GitHub");
 }
